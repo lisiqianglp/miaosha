@@ -24,7 +24,5 @@ public class App
     {
         System.out.println( "Hello World!" );
         SpringApplication.run(App.class,args);
-
-        return  "455555";
     }
 }
