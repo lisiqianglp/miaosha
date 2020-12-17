@@ -10,6 +10,34 @@ public class UserModel {
 
     private String thirdPartyId;
 
+    public Integer getId() {
+        return id;
+    }
+
+    public String getName() {
+        return name;
+    }
+
+    public Byte getGender() {
+        return gender;
+    }
+
+    public String getAge() {
+        return age;
+    }
+
+    public String getTelphone() {
+        return telphone;
+    }
+
+    public String getRegisterMode() {
+        return registerMode;
+    }
+
+    public String getThirdPartyId() {
+        return thirdPartyId;
+    }
+
     private String encrptPassword;
 
     public String getEncrptPassword() {
