@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/miaosha.iml" filepath="$PROJECT_DIR$/miaosha.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../spingboot_es/spingboot_es.iml" filepath="$PROJECT_DIR$/../spingboot_es/spingboot_es.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../springboot_es/springboot_es.iml" filepath="$PROJECT_DIR$/../springboot_es/springboot_es.iml" />
     </modules>
   </component>
 </project>
